@@ -14,6 +14,7 @@ public class PlayerMotor : MonoBehaviour {
     [SerializeField] private float radiusCircle;
     [SerializeField] private GameObject groundCheck;
     [SerializeField] private LayerMask layer;
+    public bool canMove;
 
     private bool grounded;
 
@@ -28,6 +29,10 @@ public class PlayerMotor : MonoBehaviour {
 	
 	void FixedUpdate ()
     {
+        if (!canMove)
+        {
+            return;
+        }
 
         PerformRunAndJump();
 
