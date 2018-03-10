@@ -1788,6 +1788,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1900194068}
   - component: {fileID: 1900194067}
+  - component: {fileID: 1900194069}
   m_Layer: 0
   m_Name: niveau
   m_TagString: Untagged
@@ -1852,6 +1853,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1900194069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1900194066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5304c93370b197a4194e3807dc6ad44a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1976272533
 GameObject:
   m_ObjectHideFlags: 0
@@ -1973,6 +1985,7 @@ GameObject:
   - component: {fileID: 2003434250}
   - component: {fileID: 2003434252}
   - component: {fileID: 2003434253}
+  - component: {fileID: 2003434254}
   m_Layer: 0
   m_Name: heros
   m_TagString: Player
@@ -2113,6 +2126,17 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.23, y: 0.76}
   m_EdgeRadius: 0
+--- !u!114 &2003434254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2003434247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da87ffe8ff5bb2e4096232e6cbdf6441, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2046976900
 GameObject:
   m_ObjectHideFlags: 0
