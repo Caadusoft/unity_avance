@@ -6,7 +6,7 @@ using UnityEngine;
 public enum StateAnim
 {
     Idle,
-    Run,
+    Walk,
     Jump
 
 }
@@ -30,7 +30,7 @@ public class AnimationController : MonoBehaviour {
         bool run = player.x == 1 || player.x == -1;
         if (run && playerMotor.Grounded)
         {
-            state = StateAnim.Run;
+            state = StateAnim.Walk;
             Debug.Log("Je cours");
         }
         else if (!run && playerMotor.Grounded)
@@ -56,7 +56,7 @@ public class AnimationController : MonoBehaviour {
                 anim.SetBool("Run", false);
                 anim.SetBool("Ground", true);
                 break;
-            case StateAnim.Run:
+            case StateAnim.Walk:
                 anim.SetBool("Run", true);
                 anim.SetBool("Idle", false);
                 anim.SetBool("Ground", true);

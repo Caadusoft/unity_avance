@@ -122,7 +122,7 @@ GameObject:
   m_Component:
   - component: {fileID: 21147716}
   - component: {fileID: 21147717}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: collider_1.675
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -176,7 +176,7 @@ GameObject:
   m_Component:
   - component: {fileID: 158543579}
   - component: {fileID: 158543580}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: collider_5.63
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -454,7 +454,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   data:
-    dataString: UEsDBBQAAAgIAAAIIez0CHU/XgIAAOgEAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQF1VE1v2zAM/SuBzkshO2kd77albbZDP7Bs2MUXRaJjIbJkSHLTtMh/HyXbtRtgJ1N8Ivn4SPmdSO0a4N7YjZXiwQggX2ck2OTLjLCI/WJeGnQn6JHO1OCt5N/0XoW7FJ2tlqWx9Z3Yw9o479BdMuUAIWt8iNboep+RV/zM8xByQivNgvWGVk5nZzQ5aA92cnVxleerxSLvA/BMl6uULpdpHzinV5SusjTL6SKmaDVXrG5AbOUbjJmSoWbSVdLYaH8jdMWNUtL1NIk/NVGFbVOBhaCDkAy7jtToVQioQO4rH3qYRj+VpQPfi2LZ6VZalK9LS74bX4VcNXOHjtgLU20odJ2kkVSX9OG/eGlN/WMonNBQxFeSH36xE2fOT1Sfum9H7kkU6MjUge0U/K1AP5qNNa0WCHrbhtDWQXo7Hj96W1fAD6O/43rhbJtR8UHwYcTzZHY+x/Zf10rWux7C41aZqHfcC7A4mZ9IN26N62+hN3D44+A320/XqwfupXUeob5HHcjtTGvDVXKPRhCet35trIbo7Rk3oJnyp2fM4i8HeIFNql4g9yy8n752jw3P4yIkusf7lF5Az+b4MSlXmeMDuOqp9UpqGEkH4BFlWhutu/1yn8EQtW1tyfgkat9K8XmvyKoUy3TBljxbZpkok/nNdc4oL3flzaIUPLshce+kxjaZeu549urgzPSYXOOODT+O2cayJq66sOy4kW+1mfCTujRbbgH0U5dhUMiBxSL4JsWdkKjPFryXOk6bvBdEGX4AUXwkKmKnd6/esmLMUpBGvhgfPAVZx99JQc7k/A9QSwMEFAAACAgAAAgh7D3tZ8JtAAAAeAAAAAkAJABtZXRhLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQGrVipLLSrOzM9TslIw0TPUMzTSUVBKL0osyCgGihiCOKWZKSB2tJJFWoqJkXGiSbK5ibl5SpqhrpmpZaJBclpSmplxWkqyuZlSLFB9SWVBql9ibipET0BiSUZaZl5KZl66nntRZoo7yGil2FoAUEsBAi0AFAAACAgAAAgh7PQIdT9eAgAA6AQAAAsAJAAAAAAAAAAAAAAAAAAAAGdyYXBoMC5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsBAi0AFAAACAgAAAgh7D3tZ8JtAAAAeAAAAAkAJAAAAAAAAAAAAAAAqwIAAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAVBLBQYAAAAAAgACALgAAABjAwAAAAA=
+    dataString: UEsDBBQAAAgIAAAIIewrir0wYQIAAOgEAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFlVE1z2jAQ/SuMziVjG4Jxby0B2kM+JqTTiy9CWmMNsuSR5BCS4b93JduxQ09e7dPuvn278gcRytbAnDZbI/i95kC+T4i3ybcJoQF7pk5odMfoEVZX4IxgP9RB+rsROhslCm2qNT/ASltn0V1QaQEho52PVuj6mJA3/EwzH3JGK0m99Y5WFk0uaDJQDszo6uwmy5azWdYF4DmaL5NoPk+6wGl0E0XLNEmzaBZSNIpJWtXAd+IdhkxxXzNuKylstLvhu2JaSmE7msSd66DCri7BgNeBC4pdB2rRjQ8oQRxK53sYRz8WhQXXiWLo+U4YlK9NS35qV/pcFbXHltgrlY0vlNwuAqk26f1/+G2cBLwwuvrVF44jX8SVgh2f6ZlR60aqj913A/c4CHSi8kj3Ev6WoB701uhGcQSdaXxoYyG5G46fva1KYMfB33K9cjb1oHgveD/iaTy5XEL7byspqn0H4XEnddA77AUYnMxvpBu2xna30Os5/LHwQg/j9eqAjTDWIdT1qDy5vW6Mv0o2aHjhWeNW2igI3o5xDYpKd37CLO56gFfYqOoVsqH+/XS1O6x/HlchwT3cj6Ir6EmfPidlS326B1s+Nk4KBQNpDzygTCutVLtf9ivoo3aNKSgbRR0awb/uFVkWfJ7M6Jyl8zTlRTxd3GY0YsW+WMwKztIFCXsnFLZJ5VPLs1MHZ6aG5Ap3rP9xTLaG1mHVuaGnrXiv9IifUIXeMQOgHtsMvUIWDBbBN8nXXKA+O3BOqDBt8pETqdkReP6ZKA+drt+cofmQJSe1eNXOe3KyCr+TnFzI5R9QSwMEFAAACAgAAAgh7D3tZ8JtAAAAeAAAAAkAJABtZXRhLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQGrVipLLSrOzM9TslIw0TPUMzTSUVBKL0osyCgGihiCOKWZKSB2tJJFWoqJkXGiSbK5ibl5SpqhrpmpZaJBclpSmplxWkqyuZlSLFB9SWVBql9ibipET0BiSUZaZl5KZl66nntRZoo7yGil2FoAUEsBAi0AFAAACAgAAAgh7CuKvTBhAgAA6AQAAAsAJAAAAAAAAAAAAAAAAAAAAGdyYXBoMC5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsBAi0AFAAACAgAAAgh7D3tZ8JtAAAAeAAAAAkAJAAAAAAAAAAAAAAArgIAAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAVBLBQYAAAAAAgACALgAAABmAwAAAAA=
     upgradeData: 
     file_cachedStartup: {fileID: 0}
     data_cachedStartup: 
@@ -649,7 +649,7 @@ GameObject:
   m_Component:
   - component: {fileID: 654756663}
   - component: {fileID: 654756664}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: collider_11.58
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1140,9 +1140,48 @@ Prefab:
       propertyPath: m_RootOrder
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 212043027859857504, guid: 64bb5aea69ec1704d9a597200c8e3ebb,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b081a406e4586994bad961c39da8f5b4,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 64bb5aea69ec1704d9a597200c8e3ebb, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1084046128 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1081411321710948, guid: 64bb5aea69ec1704d9a597200c8e3ebb,
+    type: 2}
+  m_PrefabInternal: {fileID: 1084046127}
+--- !u!95 &1084046129
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1084046128}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c5b23b04e7f88b343b1bcfa64a7055dd, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &1084046130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1084046128}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad10466b0eaf32c4aa26df543c2da3f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1195249371
 GameObject:
   m_ObjectHideFlags: 0
@@ -1152,7 +1191,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1195249372}
   - component: {fileID: 1195249373}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: collider_19.15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1562,7 +1601,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1424964735}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.596476, y: -0.47, z: -0.99}
+  m_LocalPosition: {x: -6.596476, y: -0.47, z: -0.06}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1595,7 +1634,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1435185012}
   - component: {fileID: 1435185013}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: collider_potion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1649,7 +1688,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1517172889}
   - component: {fileID: 1517172888}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1884,7 +1923,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1615613439}
   - component: {fileID: 1615613440}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: collider_13.29
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1938,7 +1977,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1643895163}
   - component: {fileID: 1643895164}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: collider_17.89
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2021,7 +2060,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1760401400}
   - component: {fileID: 1760401401}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: collider_3.508
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2148,7 +2187,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1976272534}
   - component: {fileID: 1976272535}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: collider_7.357
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2202,7 +2241,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1996661115}
   - component: {fileID: 1996661116}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: collider_15.98
   m_TagString: Untagged
   m_Icon: {fileID: 0}
