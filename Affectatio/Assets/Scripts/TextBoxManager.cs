@@ -24,12 +24,14 @@ public class TextBoxManager : MonoBehaviour {
         {
             textLines = (textFile.text.Split('\n'));
             // on met dans notre array tout ce qu'il y a dans fichier text
+            Debug.Log("Toutes les lignes ont été retenues");
         }
 
         if (endAtLine == 0)
         {
             endAtLine = textLines.Length - 1;
             // Comme cela pas de problèmes pour ce qui est de commencer à 0 ou 1
+            Debug.Log("endatline");
 
         }
 

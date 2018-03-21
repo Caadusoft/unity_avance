@@ -27,13 +27,13 @@ public class AnimationController : MonoBehaviour {
 	
 	void Update ()
     {
-        bool run = player.x == 1 || player.x == -1;
-        if (run && playerMotor.Grounded)
+        bool Walk = player.x == 1 || player.x == -1;
+        if (Walk && playerMotor.Grounded)
         {
             state = StateAnim.Walk;
             Debug.Log("Je cours");
         }
-        else if (!run && playerMotor.Grounded)
+        else if (!Walk && playerMotor.Grounded)
         {
             state = StateAnim.Idle;
             Debug.Log("Je ne fais rien");
@@ -53,20 +53,20 @@ public class AnimationController : MonoBehaviour {
         {
             case StateAnim.Idle:
                 anim.SetBool("Idle", true);
-                anim.SetBool("Run", false);
+                anim.SetBool("Walk", false);
                 anim.SetBool("Ground", true);
                 break;
             case StateAnim.Walk:
-                anim.SetBool("Run", true);
-                anim.SetBool("Idle", false);
                 anim.SetBool("Ground", true);
+                anim.SetBool("Walk", true);
+                anim.SetBool("Idle", false);
                 break;
             case StateAnim.Jump:
                 anim.SetBool("Ground", false);
-                anim.SetBool("Run", false);
+                anim.SetBool("Walk", false);
                 anim.SetBool("Idle", false);
                 break;
-                //Run, Idle et Ground sont définis dans les propriétés de la fenêtre Animation
+                //Walk, Idle et Ground sont définis dans les propriétés de la fenêtre Animation
         }
     }
 }
