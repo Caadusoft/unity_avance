@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class playerAttack : MonoBehaviour {
+public class PlayerAttack : MonoBehaviour {
 
-    private bool attacking = true;
+    private bool attacking = false;
     private float attackTimer = 0;
     private float attackCd = 0.3f;
     public Collider2D attackTrigger;
@@ -19,8 +19,10 @@ public class playerAttack : MonoBehaviour {
 
     void Update()
     {
+        Debug.Log("le code playerattack tourne");
         if (Input.GetKeyDown("f") && !attacking)
         {
+            Debug.Log("si j'appuie sur f");
             attacking = true;
             attackTimer = attackCd;
             attackTrigger.enabled = false;
@@ -32,9 +34,11 @@ public class playerAttack : MonoBehaviour {
             if (attackTimer > 0)
             {
                 attackTimer -= Time.deltaTime;
+                Debug.Log("si attackTimer est superieur a 0");
             }
             else
             {
+                Debug.Log("ou bien si attacktimer est inferieur a 0");
                 attacking = false;
                 attackTrigger.enabled = false;
             }

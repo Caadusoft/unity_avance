@@ -3,10 +3,10 @@ Fille apeuree: Nan, ne me faites pas de mal :(
 Moi: (Elle est effrayee! Mais qu'est-ce qu'il leur a fait?)
 Moi: Ne t'inquietes pas. Je ne te ferai pas de mal.
 Fille apeuree: Vous ne mentez pas?
-Moi: Non. Je suis venu ici pour arreter le joueur de flute.
+Moi: Non. Je suis venu ici pour arreter le joueur.
 Moi: Tu ne veux pas venir avec moi?
 Fille apeuree: Non, je ne vous fais pas confiance!
-Fille apeuree: Le joueur de flute me fait trop peur...
+Fille apeuree: Le mechant me fait trop peur...
 Moi: (Rien a faire, elle restera la quoi que je dise)
-Moi: Bon, des que j'ai, je viens te chercher.
+Moi: Bon, des que j'ai fini, je viens te chercher.
 Moi: Ne bouge pas!
