@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: aa81c385aba470e48bb28835788c7267
+timeCreated: 1521665035
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_beat_sprite(1)_0
+    21300002: hero_beat_sprite(1)_1
+    21300004: hero_beat_sprite(1)_2
+    21300006: hero_beat_sprite(1)_3
+    21300008: hero_beat_sprite(1)_4
+    21300010: hero_beat_sprite(1)_5
+    21300012: hero_beat_sprite(1)_6
+    21300014: hero_beat_sprite(1)_7
+    21300016: hero_beat_sprite(1)_8
+    21300018: hero_beat_sprite(1)_9
+    21300020: hero_beat_sprite(1)_10
+    21300022: hero_beat_sprite(1)_11
+    21300024: hero_beat_sprite(1)_12
+    21300026: hero_beat_sprite(1)_13
+    21300028: hero_beat_sprite(1)_14
+    21300030: hero_beat_sprite(1)_15
+    21300032: hero_beat_sprite(1)_16
+    21300034: hero_beat_sprite(1)_17
+    21300036: hero_beat_sprite(1)_18
+    21300038: hero_beat_sprite(1)_19
+    21300040: hero_beat_sprite(1)_20
+    21300042: hero_beat_sprite(1)_21
+    21300044: hero_beat_sprite(1)_22
+    21300046: hero_beat_sprite(1)_23
+    21300048: hero_beat_sprite(1)_24
+    21300050: hero_beat_sprite(1)_25
+    21300052: hero_beat_sprite(1)_26
+    21300054: hero_beat_sprite(1)_27
+    21300056: hero_beat_sprite(1)_28
+    21300058: hero_beat_sprite(1)_29
+    21300060: hero_beat_sprite(1)_30
+    21300062: hero_beat_sprite(1)_31
+    21300064: hero_beat_sprite(1)_32
+    21300066: hero_beat_sprite(1)_33
+    21300068: hero_beat_sprite(1)_34
+    21300070: hero_beat_sprite(1)_35
+    21300072: hero_beat_sprite(1)_36
+    21300074: hero_beat_sprite(1)_37
+    21300076: hero_beat_sprite(1)_38
+    21300078: hero_beat_sprite(1)_39
+    21300080: hero_beat_sprite(1)_40
+    21300082: hero_beat_sprite(1)_41
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1527
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1527
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1451
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1451
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1375
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1375
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1299
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1299
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1223
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1223
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1147
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1147
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1071
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1071
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 994
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 993
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 916
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 915
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 839
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 838
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 762
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 762
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 686
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 686
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 610
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 610
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 534
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 534
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 458
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 458
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 382
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 382
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 306
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 306
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_34
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 231
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 232
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 158
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 159
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 83
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 83
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_beat_sprite(1)_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 7
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

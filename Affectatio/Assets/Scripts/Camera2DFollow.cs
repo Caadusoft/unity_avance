@@ -51,7 +51,7 @@ namespace UnitySampleAssets._2D
             Vector3 newPos = Vector3.SmoothDamp(transform.position, aheadTargetPos, ref currentVelocity, damping);
 
             //Ajout d'une code de base
-            float newPosY = Mathf.Clamp(newPos.y, -2, Mathf.Infinity);
+            float newPosY = Mathf.Clamp(newPos.y, -8, Mathf.Infinity);
             //clamp permet de dire à la caméra qu'on ne regardera en-dessous de -2. Parc contre la hau sera infini
             newPos.y = newPosY;
             transform.position = newPos;

@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerAttack : MonoBehaviour {
 
     private bool attacking = false;
-    private float attackTimer = 0;
+    private float attackTimer = 10;
     private float attackCd = 0.3f;
     public Collider2D attackTrigger;
     private Animator anim;
@@ -19,14 +19,12 @@ public class PlayerAttack : MonoBehaviour {
 
     void Update()
     {
-        Debug.Log("le code playerattack tourne");
         if (Input.GetKeyDown("f") && !attacking)
         {
-            Debug.Log("si j'appuie sur f");
             attacking = true;
             attackTimer = attackCd;
-            attackTrigger.enabled = false;
-
+            attackTrigger.enabled = true;
+            
         }
 
         if (attacking)
@@ -34,16 +32,15 @@ public class PlayerAttack : MonoBehaviour {
             if (attackTimer > 0)
             {
                 attackTimer -= Time.deltaTime;
-                Debug.Log("si attackTimer est superieur a 0");
+                
             }
             else
             {
-                Debug.Log("ou bien si attacktimer est inferieur a 0");
                 attacking = false;
                 attackTrigger.enabled = false;
             }
         }
-
         anim.SetBool("Attacking", attacking);
+
     }
 }

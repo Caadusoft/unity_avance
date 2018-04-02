@@ -8,6 +8,11 @@ public class AttackTrigger : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D col)
     {
-        col.SendMessageUpwards("Damage", dmg);
+        if ( col.name == "rat")
+        {
+            col.GetComponent<Enemy>().DamageEnemy(10);
+        }
+
+        
     }
 }

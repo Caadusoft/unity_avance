@@ -19,6 +19,13 @@ public class Player1 : MonoBehaviour {
             {
             DamagePlayer(999999);
             }
+
+    }
+
+    public void takedmg(int degat)
+    {
+        this.playerStats.Health = this.playerStats.Health - degat;
+        Debug.Log(this.playerStats.Health);
     }
 
     public void DamagePlayer(int damage)
