@@ -1,0 +1,1977 @@
+fileFormatVersion: 2
+guid: bfa6b3ffe2affc546934a2314eec277f
+timeCreated: 1523629865
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: joueur_play_sprite_0
+    21300002: joueur_play_sprite_1
+    21300004: joueur_play_sprite_2
+    21300006: joueur_play_sprite_3
+    21300008: joueur_play_sprite_4
+    21300010: joueur_play_sprite_5
+    21300012: joueur_play_sprite_6
+    21300014: joueur_play_sprite_7
+    21300016: joueur_play_sprite_8
+    21300018: joueur_play_sprite_9
+    21300020: joueur_play_sprite_10
+    21300022: joueur_play_sprite_11
+    21300024: joueur_play_sprite_12
+    21300026: joueur_play_sprite_13
+    21300028: joueur_play_sprite_14
+    21300030: joueur_play_sprite_15
+    21300032: joueur_play_sprite_16
+    21300034: joueur_play_sprite_17
+    21300036: joueur_play_sprite_18
+    21300038: joueur_play_sprite_19
+    21300040: joueur_play_sprite_20
+    21300042: joueur_play_sprite_21
+    21300044: joueur_play_sprite_22
+    21300046: joueur_play_sprite_23
+    21300048: joueur_play_sprite_24
+    21300050: joueur_play_sprite_25
+    21300052: joueur_play_sprite_26
+    21300054: joueur_play_sprite_27
+    21300056: joueur_play_sprite_28
+    21300058: joueur_play_sprite_29
+    21300060: joueur_play_sprite_30
+    21300062: joueur_play_sprite_31
+    21300064: joueur_play_sprite_32
+    21300066: joueur_play_sprite_33
+    21300068: joueur_play_sprite_34
+    21300070: joueur_play_sprite_35
+    21300072: joueur_play_sprite_36
+    21300074: joueur_play_sprite_37
+    21300076: joueur_play_sprite_38
+    21300078: joueur_play_sprite_39
+    21300080: joueur_play_sprite_40
+    21300082: joueur_play_sprite_41
+    21300084: joueur_play_sprite_42
+    21300086: joueur_play_sprite_43
+    21300088: joueur_play_sprite_44
+    21300090: joueur_play_sprite_45
+    21300092: joueur_play_sprite_46
+    21300094: joueur_play_sprite_47
+    21300096: joueur_play_sprite_48
+    21300098: joueur_play_sprite_49
+    21300100: joueur_play_sprite_50
+    21300102: joueur_play_sprite_51
+    21300104: joueur_play_sprite_52
+    21300106: joueur_play_sprite_53
+    21300108: joueur_play_sprite_54
+    21300110: joueur_play_sprite_55
+    21300112: joueur_play_sprite_56
+    21300114: joueur_play_sprite_57
+    21300116: joueur_play_sprite_58
+    21300118: joueur_play_sprite_59
+    21300120: joueur_play_sprite_60
+    21300122: joueur_play_sprite_61
+    21300124: joueur_play_sprite_62
+    21300126: joueur_play_sprite_63
+    21300128: joueur_play_sprite_64
+    21300130: joueur_play_sprite_65
+    21300132: joueur_play_sprite_66
+    21300134: joueur_play_sprite_67
+    21300136: joueur_play_sprite_68
+    21300138: joueur_play_sprite_69
+    21300140: joueur_play_sprite_70
+    21300142: joueur_play_sprite_71
+    21300144: joueur_play_sprite_72
+    21300146: joueur_play_sprite_73
+    21300148: joueur_play_sprite_74
+    21300150: joueur_play_sprite_75
+    21300152: joueur_play_sprite_76
+    21300154: joueur_play_sprite_77
+    21300156: joueur_play_sprite_78
+    21300158: joueur_play_sprite_79
+    21300160: joueur_play_sprite_80
+    21300162: joueur_play_sprite_81
+    21300164: joueur_play_sprite_82
+    21300166: joueur_play_sprite_83
+    21300168: joueur_play_sprite_84
+    21300170: joueur_play_sprite_85
+    21300172: joueur_play_sprite_86
+    21300174: joueur_play_sprite_87
+    21300176: joueur_play_sprite_88
+    21300178: joueur_play_sprite_89
+    21300180: joueur_play_sprite_90
+    21300182: joueur_play_sprite_91
+    21300184: joueur_play_sprite_92
+    21300186: joueur_play_sprite_93
+    21300188: joueur_play_sprite_94
+    21300190: joueur_play_sprite_95
+    21300192: joueur_play_sprite_96
+    21300194: joueur_play_sprite_97
+    21300196: joueur_play_sprite_98
+    21300198: joueur_play_sprite_99
+    21300200: joueur_play_sprite_100
+    21300202: joueur_play_sprite_101
+    21300204: joueur_play_sprite_102
+    21300206: joueur_play_sprite_103
+    21300208: joueur_play_sprite_104
+    21300210: joueur_play_sprite_105
+    21300212: joueur_play_sprite_106
+    21300214: joueur_play_sprite_107
+    21300216: joueur_play_sprite_108
+    21300218: joueur_play_sprite_109
+    21300220: joueur_play_sprite_110
+    21300222: joueur_play_sprite_111
+    21300224: joueur_play_sprite_112
+    21300226: joueur_play_sprite_113
+    21300228: joueur_play_sprite_114
+    21300230: joueur_play_sprite_115
+    21300232: joueur_play_sprite_116
+    21300234: joueur_play_sprite_117
+    21300236: joueur_play_sprite_118
+    21300238: joueur_play_sprite_119
+    21300240: joueur_play_sprite_120
+    21300242: joueur_play_sprite_121
+    21300244: joueur_play_sprite_122
+    21300246: joueur_play_sprite_123
+    21300248: joueur_play_sprite_124
+    21300250: joueur_play_sprite_125
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: joueur_play_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 999
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 999
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 999
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 999
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 999
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 999
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 999
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 999
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 999
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 923
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 923
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 923
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 923
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 923
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 923
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 923
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 923
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 923
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 847
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 847
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 847
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 847
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 847
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 847
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 847
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 847
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 847
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 771
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 771
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 771
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 771
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 771
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 771
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 771
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 771
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 771
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 695
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 695
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 695
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 695
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 695
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 695
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 695
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 695
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 695
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 619
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 619
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 619
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 619
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 619
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 619
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 619
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_52
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 619
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_53
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 619
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 543
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_55
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 543
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 543
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_57
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 543
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 543
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 543
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 543
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_61
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 543
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_62
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 543
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 467
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_64
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 467
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 467
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_66
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 467
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_67
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 467
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_68
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 467
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_69
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 467
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_70
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 467
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_71
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 467
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 391
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_73
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 391
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_74
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 391
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 391
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_76
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 391
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_77
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 391
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_78
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 391
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_79
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 391
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_80
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 391
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_81
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 315
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_82
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 315
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 315
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_84
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 315
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_85
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 315
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_86
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 315
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_87
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 315
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_88
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 315
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_89
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 315
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 239
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_91
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 239
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_93
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 239
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_94
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 239
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_95
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 239
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_96
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 239
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_97
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 239
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_98
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 239
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_99
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 163
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_100
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 163
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_101
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 163
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_102
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 163
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_103
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 163
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_104
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 163
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_105
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 163
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_106
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 163
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_107
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 163
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_108
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 87
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_109
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 87
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_110
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 87
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_111
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 87
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_112
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 87
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_113
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 87
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_114
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 87
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_115
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 87
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_116
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 87
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_117
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 11
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_118
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 11
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 11
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_120
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 11
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_121
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 11
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_122
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 11
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_123
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 11
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_124
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 11
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_play_sprite_125
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 11
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

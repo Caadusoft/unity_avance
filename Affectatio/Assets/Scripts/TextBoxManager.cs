@@ -6,6 +6,8 @@ using UnityEngine.UI;
 public class TextBoxManager : MonoBehaviour {
 
     public GameObject textBox;
+    public GameObject fluteStatique;
+    public GameObject fluteCinematique;
     public Text theText;
     public TextAsset textFile;
     public string[] textLines;
@@ -14,6 +16,13 @@ public class TextBoxManager : MonoBehaviour {
     public PlayerMotor player;
     public bool isActive;
     public bool stopPlayerMovement;
+
+
+    public void Awake()
+    {
+        fluteStatique.SetActive(true);
+        fluteCinematique.SetActive(false);
+    }
 
     void Start()
     {
@@ -24,14 +33,12 @@ public class TextBoxManager : MonoBehaviour {
         {
             textLines = (textFile.text.Split('\n'));
             // on met dans notre array tout ce qu'il y a dans fichier text
-            Debug.Log("Toutes les lignes ont été retenues");
         }
 
         if (endAtLine == 0)
         {
             endAtLine = textLines.Length - 1;
             // Comme cela pas de problèmes pour ce qui est de commencer à 0 ou 1
-            Debug.Log("endatline");
 
         }
 
@@ -67,6 +74,17 @@ public class TextBoxManager : MonoBehaviour {
         {
             DisableTextBox();
             //si l'indice est supérieur à la dernière ligne, la textBox disparaît
+        }
+
+        if (currentLine == 44)
+        {
+            fluteStatique.SetActive(false);
+            fluteCinematique.SetActive(true);
+        }
+
+        if (currentLine == 45)
+        {
+            fluteCinematique.SetActive(false);
         }
     }
 

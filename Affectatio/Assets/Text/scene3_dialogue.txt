@@ -10,3 +10,36 @@ Fille apeuree: Le mechant me fait trop peur...
 Moi: (Rien a faire, elle restera la quoi que je dise)
 Moi: Bon, des que j'ai fini, je viens te chercher.
 Moi: Ne bouge pas!
+/////////
+/////////
+Moi: Eh toi, tu veux sortir de cette grotte?
+Fille vaillante: Vaincs d'abord le joueur de flute!
+Moi: Je suis a sa poursuite.
+Fille Vaillante: Tiens, tu vas avoir besoin de ca.
+Moi: Mais c'est une de ces potions!
+Fille vaillante: Oui, je l'avais elabore lors de ma tentative d'evasions.
+Fille vaillante: Sans succees, comme tu peux le constater...
+Moi: J'arriverai a le vaincre.
+Fille vaillante: Je vais essayer de te croire.
+Fille vaillante: En tout cas, fais attention aux rats.
+Moi: Je sais, j'en ai deja rencontre.
+Fille vaillante: Tres bien.
+Fille vaillante: Alors va et tiens parole!
+////
+////
+Fille: C'est toi l'homme dont tout le monde parle?
+Moi: Moi ?!
+Fille: Oui, tu es celui qui va nous sauver!
+Moi: (Qu'est-ce que je peux repondre a ca?)
+Moi: En effet, je suis votre sauveur!
+Fille: Ah! Geniaaaaal!
+Fille: On se regroupe tous au coeur du village.
+Fille: Retrouve-nous y quand tu l'auras battu.
+Moi: D'a... D'accord! Sans problemes!
+////
+////
+Moi: Toi! Tu ne t'echapperas pas cette fois!
+Joueur: AhAh! Tu penses pouvoir me battre?
+Moi: Sans aucune difficulte!
+Joueur: Alors, viens me chercher!
+Moi: Fumier! Arrete de fuir!!

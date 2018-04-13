@@ -1,0 +1,1542 @@
+fileFormatVersion: 2
+guid: 3c28794b75550ba4fae332603508a5c8
+timeCreated: 1523629897
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: joueur_pray_sprite_0
+    21300002: joueur_pray_sprite_1
+    21300004: joueur_pray_sprite_2
+    21300006: joueur_pray_sprite_3
+    21300008: joueur_pray_sprite_4
+    21300010: joueur_pray_sprite_5
+    21300012: joueur_pray_sprite_6
+    21300014: joueur_pray_sprite_7
+    21300016: joueur_pray_sprite_8
+    21300018: joueur_pray_sprite_9
+    21300020: joueur_pray_sprite_10
+    21300022: joueur_pray_sprite_11
+    21300024: joueur_pray_sprite_12
+    21300026: joueur_pray_sprite_13
+    21300028: joueur_pray_sprite_14
+    21300030: joueur_pray_sprite_15
+    21300032: joueur_pray_sprite_16
+    21300034: joueur_pray_sprite_17
+    21300036: joueur_pray_sprite_18
+    21300038: joueur_pray_sprite_19
+    21300040: joueur_pray_sprite_20
+    21300042: joueur_pray_sprite_21
+    21300044: joueur_pray_sprite_22
+    21300046: joueur_pray_sprite_23
+    21300048: joueur_pray_sprite_24
+    21300050: joueur_pray_sprite_25
+    21300052: joueur_pray_sprite_26
+    21300054: joueur_pray_sprite_27
+    21300056: joueur_pray_sprite_28
+    21300058: joueur_pray_sprite_29
+    21300060: joueur_pray_sprite_30
+    21300062: joueur_pray_sprite_31
+    21300064: joueur_pray_sprite_32
+    21300066: joueur_pray_sprite_33
+    21300068: joueur_pray_sprite_34
+    21300070: joueur_pray_sprite_35
+    21300072: joueur_pray_sprite_36
+    21300074: joueur_pray_sprite_37
+    21300076: joueur_pray_sprite_38
+    21300078: joueur_pray_sprite_39
+    21300080: joueur_pray_sprite_40
+    21300082: joueur_pray_sprite_41
+    21300084: joueur_pray_sprite_42
+    21300086: joueur_pray_sprite_43
+    21300088: joueur_pray_sprite_44
+    21300090: joueur_pray_sprite_45
+    21300092: joueur_pray_sprite_46
+    21300094: joueur_pray_sprite_47
+    21300096: joueur_pray_sprite_48
+    21300098: joueur_pray_sprite_49
+    21300100: joueur_pray_sprite_50
+    21300102: joueur_pray_sprite_51
+    21300104: joueur_pray_sprite_52
+    21300106: joueur_pray_sprite_53
+    21300108: joueur_pray_sprite_54
+    21300110: joueur_pray_sprite_55
+    21300112: joueur_pray_sprite_56
+    21300114: joueur_pray_sprite_57
+    21300116: joueur_pray_sprite_58
+    21300118: joueur_pray_sprite_59
+    21300120: joueur_pray_sprite_60
+    21300122: joueur_pray_sprite_61
+    21300124: joueur_pray_sprite_62
+    21300126: joueur_pray_sprite_63
+    21300128: joueur_pray_sprite_64
+    21300130: joueur_pray_sprite_65
+    21300132: joueur_pray_sprite_66
+    21300134: joueur_pray_sprite_67
+    21300136: joueur_pray_sprite_68
+    21300138: joueur_pray_sprite_69
+    21300140: joueur_pray_sprite_70
+    21300142: joueur_pray_sprite_71
+    21300144: joueur_pray_sprite_72
+    21300146: joueur_pray_sprite_73
+    21300148: joueur_pray_sprite_74
+    21300150: joueur_pray_sprite_75
+    21300152: joueur_pray_sprite_76
+    21300154: joueur_pray_sprite_77
+    21300156: joueur_pray_sprite_78
+    21300158: joueur_pray_sprite_79
+    21300160: joueur_pray_sprite_80
+    21300162: joueur_pray_sprite_81
+    21300164: joueur_pray_sprite_82
+    21300166: joueur_pray_sprite_83
+    21300168: joueur_pray_sprite_84
+    21300170: joueur_pray_sprite_85
+    21300172: joueur_pray_sprite_86
+    21300174: joueur_pray_sprite_87
+    21300176: joueur_pray_sprite_88
+    21300178: joueur_pray_sprite_89
+    21300180: joueur_pray_sprite_90
+    21300182: joueur_pray_sprite_91
+    21300184: joueur_pray_sprite_92
+    21300186: joueur_pray_sprite_93
+    21300188: joueur_pray_sprite_94
+    21300190: joueur_pray_sprite_95
+    21300192: joueur_pray_sprite_96
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: joueur_pray_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 770
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 768
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 767
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 766
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 766
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 765
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 765
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 765
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 765
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 689
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 689
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 690
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 689
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 688
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 688
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 688
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 688
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 688
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 611
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 611
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 611
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 610
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 610
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 609
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 609
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 609
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 533
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 533
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 533
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 533
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 533
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 533
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 532
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 532
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 532
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 456
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 456
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 456
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 456
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 457
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 457
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 457
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 458
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 458
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 383
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 383
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 384
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 384
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 384
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_52
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 384
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_53
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 384
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_55
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 308
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 308
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 308
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 308
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 308
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 308
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_61
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 308
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_62
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 308
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_64
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 232
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_65
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 232
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 232
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_67
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 232
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_68
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 232
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_69
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 232
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_70
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 232
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_71
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 232
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_73
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 156
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 156
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 156
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_76
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 156
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_77
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 156
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_78
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 156
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_79
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 156
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_80
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 156
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_82
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 80
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_83
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 80
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_84
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 80
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 80
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_86
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 80
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_87
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 80
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_88
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 80
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_89
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 80
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_91
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_92
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_93
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_94
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_95
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: joueur_pray_sprite_96
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 4
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
