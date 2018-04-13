@@ -20,6 +20,11 @@ public class Player1 : MonoBehaviour {
             DamagePlayer(999999);
             }
 
+        if (playerStats.Health <= 0)
+        {
+            GameMaster.KillPlayer(this);
+        }
+
     }
 
     public void takedmg(int degat)

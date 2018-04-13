@@ -49,7 +49,6 @@ public class PlayerMotor : MonoBehaviour {
         if (grounded)  //si je suis bien sur le sol
         {
             rb.AddForce(new Vector2(0f, velocity.y) * Time.deltaTime * maxSpeedJump, ForceMode2D.Impulse);
-            Debug.Log("je suis dans la fonction grounded");
         }
         rb.velocity = new Vector2(velocity.x * maxSpeed * Time.deltaTime, rb.velocity.y);
         //time.deltaTime permet de synchroniser le nombre d'images par secondes à tous les écrans
@@ -60,6 +59,7 @@ public class PlayerMotor : MonoBehaviour {
 
     private void OnDrawGizmos()
     {
+        //création du guizmo
         Gizmos.DrawSphere(groundCheck.transform.position, radiusCircle);
     }
 }

@@ -10,7 +10,8 @@ public class GameMaster : MonoBehaviour {
     {
         if (gm == null)
         {
-            gm = GameObject.FindGameObjectWithTag("GM").GetComponent<GameMaster>();
+            //création d'une variable pour le collider vide
+            gm = GameObject.FindGameObjectWithTag("SpawnPoint").GetComponent<GameMaster>();
         }
     }
 
@@ -19,12 +20,14 @@ public class GameMaster : MonoBehaviour {
 
     public void RespawnPlayer()
     {
+        //Permet de placer à nouver le héros
         Instantiate(playerPrefab, spawnPoint.position, spawnPoint.rotation);
     }
 
     public static void KillPlayer(Player1 player)
     {
         Destroy(player.gameObject);
+        //on instancie là où se trouve le collider vide
         gm.RespawnPlayer();
     }
 

@@ -7,6 +7,9 @@ using Pathfinding;
 [RequireComponent(typeof(Seeker))]
 public class EnemyAI : MonoBehaviour
 {
+
+    public GameObject rat;
+
     //objet à poursuivre
     public Transform target;
 
