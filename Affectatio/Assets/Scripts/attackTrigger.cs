@@ -8,11 +8,29 @@ public class AttackTrigger : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D col)
     {
-        if ( col.name == "rat")
+        if ( col.name == "rat_debut")
         {
             col.GetComponent<Enemy>().DamageEnemy(10);
         }
 
-        
+        if (col.name == "rat_fin_bas_1")
+        {
+            col.GetComponent<Enemy>().DamageEnemy(10);
+        }
+
+        if (col.name == "rat_fin_bas_2")
+        {
+            col.GetComponent<Enemy>().DamageEnemy(10);
+        }
+
+        if (col.name == "rat_fin_milieu_2")
+        {
+            col.GetComponent<Enemy>().DamageEnemy(10);
+        }
+
+        if (col.name == "rat_fin_milieu_1")
+        {
+            col.GetComponent<Enemy>().DamageEnemy(10);
+        }
     }
 }

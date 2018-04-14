@@ -82,5 +82,6 @@ public class Player1 : MonoBehaviour {
             GameMaster.KillPlayer(this);
         }
         statusIndicator.SetHealth(stats.curHealth, stats.maxHealth);
+        camShake.Shake(camShakeAmt, 0.2f);
     }
 }
