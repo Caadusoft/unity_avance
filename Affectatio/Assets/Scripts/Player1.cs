@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Player1 : MonoBehaviour {
 
+    public float camShakeAmt = 0.1f;
+    CameraShake camShake;
+
     [System.Serializable]
     public class PlayerStats
     {
@@ -30,6 +33,13 @@ public class Player1 : MonoBehaviour {
 
      void Start()
     {
+
+        camShake = GameMaster.gm.GetComponent<CameraShake>();
+        if (camShake == null)
+        {
+            Debug.Log("Le script cameraShake n'a pas été trouvé");
+        }
+
         stats.Init();
         
         if (statusIndicator == null)
@@ -61,6 +71,7 @@ public class Player1 : MonoBehaviour {
         this.stats.curHealth = this.stats.curHealth - degat;
         Debug.Log(this.stats.curHealth);
         statusIndicator.SetHealth(stats.curHealth, stats.maxHealth);
+        camShake.Shake(camShakeAmt, 0.2f);
     }
 
     public void DamagePlayer(int damage)

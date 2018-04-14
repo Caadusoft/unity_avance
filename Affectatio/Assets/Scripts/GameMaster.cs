@@ -6,12 +6,12 @@ public class GameMaster : MonoBehaviour {
 
     public static GameMaster gm;
 
-    void start()
+    void Awake()
     {
         if (gm == null)
         {
             //création d'une variable pour le collider vide
-            gm = GameObject.FindGameObjectWithTag("SpawnPoint").GetComponent<GameMaster>();
+            gm = GameObject.FindGameObjectWithTag("gm").GetComponent<GameMaster>();
         }
     }
 
