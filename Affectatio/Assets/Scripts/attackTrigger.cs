@@ -32,5 +32,10 @@ public class AttackTrigger : MonoBehaviour {
         {
             col.GetComponent<Enemy>().DamageEnemy(10);
         }
+
+        if (col.name == "joueur_flute_fin")
+        {
+            Time.timeScale = 0f;
+        }
     }
 }
